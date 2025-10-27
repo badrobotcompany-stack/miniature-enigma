@@ -1,15 +1,43 @@
-# miniature-enigma
-first miniature-enigma   slow motion but working on it
-I’ve been working on a miniature-enigma project. 
+# 👋 Hi there, I'm BadRobotCompany-Stack!
 
-It’s slow going, but I’m making progress. 
+Welcome to my GitHub profile! Here you'll find a collection of my projects, experiments, and contributions to the tech community. I'm passionate about building, exploring new technologies, and sharing knowledge.
 
-Every small step counts. 
+## 🚀 About Me
 
-I’m learning a lot along the way. 
+- 💼 **Profession:** Webdesign  
+- 🛠️ **Top Skills:** AI, Google primary programming languages, Test frameworks  
+- 🌱 **Currently Learning:** Evolution of LLMs, learning about human behavior  
+- 🤝 **Open to Collaborate On:** Team or small company projects  
 
-It’s exciting to see my ideas come to life, even if it takes time. 
+## 📂 Featured Projects
 
-I believe in sticking with it and enjoying the journey. 
+| Project | Description | Tech Stack/Link |
+|---------|-------------|----------------|
+| [Prompt Powerhouse](https://gemini-prompt-powerhouse-773504783089.us-west1.run.app/) | Promt Powerhouse of the project | Gemini AI, Cloud Run |
+| [Pet Sitter Pro](https://copy-of-pet-sitter-pro-1037953014301.us-west1.run.app) | Pet sitter app project | Cloud Run, Web App |
 
-Here’s to more small wins ahead!
+## 🏆 Highlights
+
+- ⭐ Freedom milestone  
+- 📝 [DigitalDisruptorShop on Payhip](https://payhip.com/DigitalDisruptorShop)  
+- 🗣️ x  
+
+## 📫 Connect with Me
+
+- [LinkedIn](#)
+- [X (formerly Twitter)](https://x.com/DisruptorShop)
+- [DigitalDisruptorShop on Payhip](https://payhip.com/DigitalDisruptorShop)
+- [Email](mailto:your@email.com)
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.”*  
+> — Cory House
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=badrobotcompany-stack&show_icons=true&hide_title=true)
+
+<!--
+**badrobotcompany-stack/badrobotcompany-stack** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
